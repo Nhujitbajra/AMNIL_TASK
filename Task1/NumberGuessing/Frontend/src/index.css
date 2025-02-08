@@ -1,0 +1,26 @@
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    background-color: aquamarine;
+}
+
+.sub-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+}
+
+
+.result{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 26px;
+}

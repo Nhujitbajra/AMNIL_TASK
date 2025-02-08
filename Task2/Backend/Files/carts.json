@@ -1,0 +1,12 @@
+[
+  {
+    "id": 101,
+    "product": "Phone",
+    "price": 100000
+  },
+  {
+    "id": 102,
+    "product": "Laptop",
+    "price": 1000000
+  }
+]
